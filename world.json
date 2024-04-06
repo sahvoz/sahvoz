@@ -1,0 +1,188 @@
+{
+  "title": "Icewind Dale - Rime of the Frost Maiden",
+  "description": "<h1 data-title-index=\"1\" data-title-relative-index=\"0\">Bienvenido al lejano norte</h1>\n<p>Al norte de la Columna Vertebral del Mundo y al oeste del imponente Reghed Glacier hay una extensión gélida que pocos se atreven a explorar, y mucho menos a habitar. Esta tierra helada de tundra azotada por el viento recientemente quedó atrapada en un invierno perpetuo y oscuro sin tregua. Auril the Frostmaiden, la encarnación divina de la furia del invierno, se ha retirado a este frío rincón del mundo para vivir entre los mortales. Además, ha lanzado un terrible hechizo sobre Icewind Dale, en detrimento de la mayoría de sus habitantes.</p>\n<p>Cada noche antes de la medianoche, Auril sube al cielo sobre la espalda de un roc blanco y teje su hechizo, que se manifiesta como una brillante cortina de luz: una hermosa aurora que ilumina el cielo nocturno y se desvanece antes del amanecer. Esta poderosa magia evita que el sol del día siguiente ascienda por el horizonte, convirtiendo el mediodía en crepúsculo y atrapando a Icewind Dale en el oscuro abrazo del invierno, sin luz solar ni calor para derretir la nieve y el hielo. Cada lanzamiento del hechizo deja a la Doncella de Escarcha debilitada, con suficiente poder divino para bloquear el paso de la montaña con ventiscas y agitar el Mar de Hielo en Movimiento con vientos abrasadores. Estas medidas disuaden a los viajeros de acercarse o salir del Valle del Viento Helado, lo que aísla aún más la región. Icewind Dale ha quedado atrapado en una realidad diferente del resto del mundo,</p>\n<p>La gente de Icewind Dale reconoce la ira de Auril cuando la siente, y tienen un nombre para el invierno interminable que les ha infligido. Lo llaman la Rima Eterna. Nadie entiende por qué Frostmaiden ha impuesto su voluntad de esta manera o por qué los otros dioses se niegan a desafiarla. Este prolongado invierno, que ha durado más de dos años, amenaza con acabar no solo con las luces parpadeantes de la civilización conocida como Diez Ciudades, sino también con la flora y la fauna autóctonas que necesitan la luz del sol y el cambio de estaciones para sobrevivir.</p>\n<p><img src=\"https://assets.forge-vtt.com/61624f4d6a9126a244a779c2/Reference/wildneres.png\" width=\"1700\" height=\"250\" /></p>",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "type": "Item",
+      "label": "DDB Backgrounds",
+      "name": "ddb-icewind-dale-ddb-backgrounds",
+      "path": "packs/ddb-icewind-dale-ddb-backgrounds",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-icewind-dale-ddb-classes",
+      "path": "packs/ddb-icewind-dale-ddb-classes",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Subclasses",
+      "name": "ddb-icewind-dale-ddb-subclasses",
+      "path": "packs/ddb-icewind-dale-ddb-subclasses",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-icewind-dale-ddb-class-features",
+      "path": "packs/ddb-icewind-dale-ddb-class-features",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-icewind-dale-ddb-feats",
+      "path": "packs/ddb-icewind-dale-ddb-feats",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Items",
+      "name": "ddb-icewind-dale-ddb-items",
+      "path": "packs/ddb-icewind-dale-ddb-items",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-icewind-dale-ddb-monsters",
+      "path": "packs/ddb-icewind-dale-ddb-monsters",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Vehicles",
+      "name": "ddb-icewind-dale-ddb-vehicles",
+      "path": "packs/ddb-icewind-dale-ddb-vehicles",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Races",
+      "name": "ddb-icewind-dale-ddb-races",
+      "path": "packs/ddb-icewind-dale-ddb-races",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-icewind-dale-ddb-racial-traits",
+      "path": "packs/ddb-icewind-dale-ddb-racial-traits",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-icewind-dale-ddb-spells",
+      "path": "packs/ddb-icewind-dale-ddb-spells",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-icewind-dale-ddb-tables",
+      "path": "packs/ddb-icewind-dale-ddb-tables",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Override",
+      "name": "ddb-icewind-dale-ddb-override",
+      "path": "packs/ddb-icewind-dale-ddb-override",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Adventure",
+      "label": "DDB Adventures",
+      "name": "ddb-icewind-dale-ddb-adventures",
+      "path": "packs/ddb-icewind-dale-ddb-adventures",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "system": "dnd5e",
+  "background": "https://assets.forge-vtt.com/61624f4d6a9126a244a779c2/Reference/dnd-icewind-dale-alternate-cover-1.png",
+  "coreVersion": "11.313",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "2.4.1",
+  "id": "icewind-dale",
+  "compatibility": {
+    "verified": "11.313",
+    "minimum": "11"
+  },
+  "lastPlayed": "Sat Mar 02 2024 23:42:09 GMT+0000 (Coordinated Universal Time)",
+  "playtime": 28110
+}
